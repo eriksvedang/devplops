@@ -1,2 +1,2 @@
-* Avoid auto correcting lein command *
+### Avoid auto correcting lein command
 alias lein='nocorrect lein'%
