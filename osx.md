@@ -49,4 +49,9 @@ Create file in ~/Library/LaunchAgents/my.startup.plist
 
 ------------------------------------------
 
-###
+### Make emacs start and return control to shell afterwards
+
+    alias emacs='open -a /Applications/Emacs.app $1'
+
+
+
